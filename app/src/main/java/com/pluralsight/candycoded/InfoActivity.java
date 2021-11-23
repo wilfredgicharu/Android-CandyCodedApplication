@@ -52,6 +52,6 @@ public class InfoActivity extends AppCompatActivity {
             phoneIntent.setData(Uri.parse("tel:0123456789"));
             startActivity(phoneIntent);
         }
-    
+
 
 }
